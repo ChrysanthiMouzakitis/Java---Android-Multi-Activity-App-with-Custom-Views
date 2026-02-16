@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+    <food>
+        <name>Moussaka</name>
+        <subtitle>Layered creamy casserole</subtitle>
+        <description>A layered Greek casserole made with eggplant, minced meat, potatoes, and creamy béchamel sauce.</description>
+        <image>moussaka.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/mousakas/</url>
+        <ingredients>Eggplants, potatoes, ground beef or lamb, onion, garlic, tomato, red wine, cinnamon, allspice, olive oil, milk, butter, flour, eggs, nutmeg, grated cheese.</ingredients>
+        <instruction>Slice eggplants and potatoes; bake or shallow-fry until tender.
+            Make meat sauce: brown mince with onion/garlic, add tomato, wine, spices; simmer thick.
+            Cook thick béchamel; season with salt, nutmeg; enrich with cheese and eggs.
+            Assemble: potatoes, eggplant, meat sauce, more eggplant, béchamel; top with cheese.
+            Bake until golden and set; rest before slicing.</instruction>
+    </food>
+
+    <food>
+        <name>Souvlaki</name>
+        <subtitle>Grilled marinated skewers</subtitle>
+        <description>Grilled skewers of marinated meat, often served with pita, tzatziki, tomatoes, onions, and fries.</description>
+        <image>souvlaki.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/souvlaki-with-chicken-and-pita-breads/</url>
+        <ingredients>Chicken or pork, olive oil, lemon juice, garlic, oregano, salt, pepper, pita bread, tzatziki.</ingredients>
+        <instruction>Cut meat into bite-size pieces and marinate with olive oil, lemon, garlic, oregano, salt and pepper.
+            Thread onto skewers and grill until charred and cooked through.
+            Serve with pita, tzatziki, tomato and onion.</instruction>
+    </food>
+
+    <food>
+        <name>Gyros</name>
+        <subtitle>Rotisserie-style Greek wrap</subtitle>
+        <description>Rotisserie-cooked meat sliced thin and served in pita bread with vegetables and tzatziki sauce.</description>
+        <image>gyros.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/souvlaki-with-gyros-wrapped-pita-breads-with-pork-and-tzatziki-sauce/</url>
+        <ingredients>Chicken or pork, olive oil, yogurt, garlic, lemon juice, vinegar, oregano, paprika, salt, pepper, pita bread, tomato, onion, tzatziki.</ingredients>
+        <instruction>Marinate sliced meat with oil, yogurt, lemon or vinegar, garlic, oregano and paprika; season.
+            Grill or pan-fry until browned and cooked through.
+            Warm pitas and assemble with meat, tzatziki, tomato and onion.</instruction>
+    </food>
+
+    <food>
+        <name>Spanakopita</name>
+        <subtitle>Spinach and feta pastry pie</subtitle>
+        <description>A savory pie made with spinach, feta, and herbs wrapped in crisp phyllo pastry.</description>
+        <image>spanakopita.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/mini-spanakopita-triangles-recipe-spanakopitakia-greek-spinach-triangles/</url>
+        <ingredients>Spinach, onion, garlic, feta, eggs, dill, nutmeg, phyllo pastry, butter or olive oil, salt, pepper.</ingredients>
+        <instruction>Sauté onions and garlic; wilt spinach and drain very well.
+            Mix with feta, eggs, herbs and seasoning.
+            Layer phyllo sheets, brushing each with butter or oil; add filling; top with more phyllo.
+            Bake until golden and crisp.</instruction>
+    </food>
+
+    <food>
+        <name>Dolmades</name>
+        <subtitle>Stuffed vine leaf rolls</subtitle>
+        <description>Vine leaves stuffed with rice and herbs (sometimes minced meat), simmered until tender and lemony.</description>
+        <image>dolmades.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/greek-dolmades-recipe-stuffed-vine-leaves/</url>
+        <ingredients>Vine leaves, rice, onion, dill, mint, parsley, lemon juice, olive oil, salt, pepper, optional minced beef or pork, stock.</ingredients>
+        <instruction>Mix rice with onion, herbs, olive oil and seasoning (add minced meat if using).
+            Place filling on each leaf; roll tightly and pack seam-side down in a pot.
+            Add water or stock with lemon juice; weigh down and simmer gently until rice is tender.</instruction>
+    </food>
+
+    <food>
+        <name>Tzatziki</name>
+        <subtitle>Yogurt cucumber dip</subtitle>
+        <description>A refreshing yogurt–cucumber–garlic dip finished with olive oil and a splash of vinegar or lemon.</description>
+        <image>tzatziki.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/authentic-greek-tzatziki-sauce-recipe/</url>
+        <ingredients>Greek yogurt, cucumber, garlic, olive oil, vinegar or lemon juice, salt, pepper, dill or mint.</ingredients>
+        <instruction>Grate cucumber, salt lightly and squeeze very dry.
+            Mix yogurt with garlic, olive oil and vinegar or lemon juice.
+            Fold in cucumber and herbs; season to taste and chill before serving.</instruction>
+    </food>
+
+    <food>
+        <name>Greek Salad</name>
+        <subtitle>Classic feta vegetable salad</subtitle>
+        <description>A classic village salad of tomatoes, cucumber, green pepper, red onion, olives, feta, olive oil and oregano.</description>
+        <image>greek_salad.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/greek-feta-salad/</url>
+        <ingredients>Tomatoes, cucumber, green pepper, red onion, olives, feta, olive oil, vinegar, oregano, salt.</ingredients>
+        <instruction>Combine chopped tomatoes, cucumber, green pepper, red onion and olives in a bowl.
+            Top with a slab of feta.
+            Drizzle with olive oil (and a splash of vinegar if desired); sprinkle oregano and a pinch of salt.</instruction>
+    </food>
+
+    <food>
+        <name>Pastitsio</name>
+        <subtitle>Greek baked pasta casserole</subtitle>
+        <description>Greek baked pasta layered with spiced meat sauce and creamy béchamel, similar to lasagna.</description>
+        <image>pastitsio.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/pastitsio/</url>
+        <ingredients>Pasta (bucatini), ground beef, onion, garlic, tomato, wine, cinnamon, nutmeg, oregano, olive oil, milk, butter, flour, eggs, cheese, salt, pepper.</ingredients>
+        <instruction>Cook pasta to just under al dente; drain.
+            Make meat sauce with onion, garlic, tomato, wine and warm spices; simmer thick.
+            Cook béchamel; season and enrich with eggs and cheese.
+            Layer pasta, meat sauce and béchamel; bake until set and golden.</instruction>
+    </food>
+
+    <food>
+        <name>Kleftiko</name>
+        <subtitle>Slow-roasted Greek lamb</subtitle>
+        <description>Slow-roasted lamb sealed with vegetables and potatoes until meltingly tender.</description>
+        <image>kleftiko.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/lamb-kleftiko-recipe-greek-lamb-cooked-in-parchment-paper/</url>
+        <ingredients>Lamb, garlic, lemon juice, olive oil, oregano, potatoes, onions, peppers, wine, salt, pepper.</ingredients>
+        <instruction>Marinate lamb with lemon juice, olive oil, garlic, oregano, salt and pepper.
+            Toss potatoes and vegetables with oil and seasoning.
+            Seal lamb and veg in parchment or foil; slow-roast until very tender, then uncover to brown.</instruction>
+    </food>
+
+    <food>
+        <name>Baklava</name>
+        <subtitle>Honey nut phyllo dessert</subtitle>
+        <description>Layers of crisp phyllo, spiced nuts, and a honey-lemon syrup.</description>
+        <image>baklava.jpg</image>
+        <url>https://www.mygreekdish.com/recipe/baklava-greek-walnut-pistachio-cake/</url>
+        <ingredients>Phyllo pastry, walnuts, sugar, cinnamon, butter, honey, water, sugar, lemon.</ingredients>
+        <instruction>Pulse nuts with sugar and cinnamon.
+            Layer phyllo in a pan, brushing each sheet with butter; sprinkle nut mixture between layers.
+            Score, bake until deep golden and crisp.
+            Make syrup with honey, sugar, water and lemon; pour over hot baklava and cool completely.</instruction>
+    </food>
+</foods>

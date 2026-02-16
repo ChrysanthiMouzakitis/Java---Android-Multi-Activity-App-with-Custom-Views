@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".DetailsActivity"
+    android:background="#E8EFF0">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="106dp"
+      android:background="@drawable/gbgd2"
+      android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="377dp"
+        android:layout_height="67dp"
+        android:layout_margin="20dp"
+        android:background="#FFFFFF"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:padding="10dp"
+        android:text="Traditional Greek Dishes"
+        android:textColor="#4C5657"
+        android:textSize="27sp"
+        android:textStyle="bold" />
+
+  </LinearLayout>
+
+
+
+
+  <TextView
+      android:id="@+id/descriptionTextView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:text="Description"
+      android:textStyle="bold"
+      android:fontFamily="serif"
+      android:textSize="20sp" />
+
+  <TextView
+      android:id="@+id/descriptionTextView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:text="TextView"
+      android:fontFamily="serif"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/ingredientsTextView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:fontFamily="serif"
+      android:text="Ingredients: "
+      android:textStyle="bold"
+      android:textSize="20sp" />
+
+  <TextView
+      android:id="@+id/ingredientsTextView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:fontFamily="serif"
+      android:text="TextView"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/instructionsTextView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:text="Instructions:"
+      android:textStyle="bold"
+      android:fontFamily="serif"
+      android:textSize="20sp" />
+
+  <TextView
+      android:id="@+id/instructionsTextView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:fontFamily="serif"
+      android:text="TextView"
+      android:textSize="18sp" />
+
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Back to Overview"
+        android:textColorLink="#682020"
+        android:textSize="21sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="See Web Recipe"
+        android:textColorLink="#682020"
+        android:textSize="21sp" />
+  </LinearLayout>
+
+
+</LinearLayout>
+
+

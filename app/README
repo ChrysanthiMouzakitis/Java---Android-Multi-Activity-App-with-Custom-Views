@@ -1,0 +1,29 @@
+README
+
+Note:
+The app is run with the Medium Phone API 36.1 device
+
+What the app does:
+
+This is a recipe app for known greek traditional recipes. It displays a variety of greek dishes which the user can select and learn mre about
+the ingredients needed for the recipe. The user can then continue to read the steps of the recipe and then continue further to the
+web version which shows the website of the recipe
+
+Which features have been implemented and where they are:
+
+How the app is structured (activities, layouts, data handling, etc.)
+The data is read in from the food.xml file in the XMLFood file, this contains all the foods with attributes such as their name, a short description for the subtitle,
+a long description, the ingredients needed and the steps to complete the recipe and the url for the website.
+The first page is controlled by MainActivity and the layout is in activity_main.xml and displays a title and a grid recyler view of the foods.
+When you click on a food, it brings you to the food activity page which shows the ingredients needed for the recipe.
+This is controlled by FoodActivity and the layout is in activity_food.xml
+You can now click on one of two buttons, one to bring you home to the main page, one to continue you forward to the recipe page.
+All data involving the food is passed through intents to the next activity.
+Once at the recipe page, this is controlled by DetailsActivity and the layout is in activity_details.xml
+Then you can go back to the food activity page or continue to the web view with the two buttons.
+The web view page is controlled by WebActivity and the layout is in activity_web. It displays the url of the food from the xml file
+
+All the images are slightly curved, this shape is stored in drawable and applied to the images.
+
+Any limitations or known issues
+No known issues
